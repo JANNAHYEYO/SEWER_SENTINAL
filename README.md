@@ -22,4 +22,8 @@ Methodology:
      Creating a user-friendly mobile app enabling login, displaying gas ppm levels, and plotting gas variations via ThingSpeak IoTPlatform. 
      Gas sensor data is uploaded to Firebase and ThingSpeak through Nodemcu's serial communication, utilizing Wi-Fi, with GSM Module backup for areas without Wi-Fi.
 
+
+   
+
+
  
