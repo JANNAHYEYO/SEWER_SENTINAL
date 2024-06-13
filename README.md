@@ -77,7 +77,7 @@ TESTING AND CALIBRATION:
 DEPLOYMENT AND MONITORING:
 - Deploy the device in the field, ensuring it is properly powered and protected.
 - Monitor the system regularly and perform maintenance as required.
-- 
+  
  Safety and Maintenance
 - Regular Calibration: Periodically calibrate sensors to maintain accuracy.
 - Battery Check: Ensure the power supply is reliable; replace batteries as needed.
